@@ -1,0 +1,14 @@
+D:\CsharpProjects\Chapter04\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.exe
+D:\CsharpProjects\Chapter04\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.deps.json
+D:\CsharpProjects\Chapter04\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.runtimeconfig.json
+D:\CsharpProjects\Chapter04\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.dll
+D:\CsharpProjects\Chapter04\TopLevelFunctions\bin\Debug\net8.0\TopLevelFunctions.pdb
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.AssemblyInfoInputs.cache
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.AssemblyInfo.cs
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.dll
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\refint\TopLevelFunctions.dll
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.pdb
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\TopLevelFunctions.genruntimeconfig.cache
+D:\CsharpProjects\Chapter04\TopLevelFunctions\obj\Debug\net8.0\ref\TopLevelFunctions.dll

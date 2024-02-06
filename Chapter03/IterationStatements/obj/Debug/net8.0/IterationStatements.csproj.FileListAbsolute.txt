@@ -1,0 +1,14 @@
+D:\CsharpProjects\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.exe
+D:\CsharpProjects\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.deps.json
+D:\CsharpProjects\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.runtimeconfig.json
+D:\CsharpProjects\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.dll
+D:\CsharpProjects\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.pdb
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfoInputs.cache
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfo.cs
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.dll
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\refint\IterationStatements.dll
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.pdb
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.genruntimeconfig.cache
+D:\CsharpProjects\Chapter03\IterationStatements\obj\Debug\net8.0\ref\IterationStatements.dll
