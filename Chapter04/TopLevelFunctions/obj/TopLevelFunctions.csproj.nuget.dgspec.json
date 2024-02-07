@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CsharpProjects\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj": {}
+    "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj": {}
   },
   "projects": {
-    "D:\\CsharpProjects\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj": {
+    "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CsharpProjects\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj",
+        "projectUniqueName": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj",
         "projectName": "TopLevelFunctions",
-        "projectPath": "D:\\CsharpProjects\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj",
+        "projectPath": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\TopLevelFunctions\\TopLevelFunctions.csproj",
         "packagesPath": "C:\\Users\\hesham.abdelalem\\.nuget\\packages\\",
-        "outputPath": "D:\\CsharpProjects\\Chapter04\\TopLevelFunctions\\obj\\",
+        "outputPath": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\TopLevelFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hesham.abdelalem\\AppData\\Roaming\\NuGet\\NuGet.Config",

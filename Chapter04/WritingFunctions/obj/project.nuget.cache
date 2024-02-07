@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGDXLDk8VuT6oP6Ouqm7IJfLLa7basX5wQ/T4rQU/EQmyVhTh9oYDH+ePFMKXRHyEmxeqSQcjCpaHi/3Dzfvbw==",
+  "dgSpecHash": "8AeQ1657ZYj1jpIwijDGAggT5mNkyTV2EKhnO6FYxzZ3Z0q+h6V2vRv8IHkSa8LZYc7n05oS1qbQJnctoxs1CA==",
   "success": true,
-  "projectFilePath": "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+  "projectFilePath": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

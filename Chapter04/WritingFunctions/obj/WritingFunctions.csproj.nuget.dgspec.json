@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {}
+    "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {}
   },
   "projects": {
-    "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {
+    "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\WritingFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+        "projectUniqueName": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
         "projectName": "WritingFunctions",
-        "projectPath": "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
+        "projectPath": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\WritingFunctions.csproj",
         "packagesPath": "C:\\Users\\hesham.abdelalem\\.nuget\\packages\\",
-        "outputPath": "D:\\CsharpProjects\\Chapter04\\WritingFunctions\\obj\\",
+        "outputPath": "D:\\CsharpProjects\\c12dotnet8Book\\Chapter04\\WritingFunctions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hesham.abdelalem\\AppData\\Roaming\\NuGet\\NuGet.Config",
